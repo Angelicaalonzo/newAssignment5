@@ -1,0 +1,8 @@
+/Users/angelicaalonzo/Desktop/CIDM4360/Assignment5/obj/Debug/netcoreapp2.2/Assignment5.csprojAssemblyReference.cache
+/Users/angelicaalonzo/Desktop/CIDM4360/Assignment5/obj/Debug/netcoreapp2.2/Assignment5.csproj.CoreCompileInputs.cache
+/Users/angelicaalonzo/Desktop/CIDM4360/Assignment5/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfoInputs.cache
+/Users/angelicaalonzo/Desktop/CIDM4360/Assignment5/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfo.cs
+/Users/ryangross/Downloads/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.csprojAssemblyReference.cache
+/Users/ryangross/Downloads/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.csproj.CoreCompileInputs.cache
+/Users/ryangross/Downloads/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfoInputs.cache
+/Users/ryangross/Downloads/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfo.cs
