@@ -1,6 +1,6 @@
 abstract class Payment
 {
-double amount; // amount of this payment
+ double amount; // amount of this payment
 string paymentDate; // date of this payment
 
 public Payment(double a, string p)
@@ -25,12 +25,14 @@ public virtual bool verify()
 {
     
     //return "Payment Verified";
-    return "";
+    return true;
 
 
 }
 
-public virtual string getPaymentType(){
-        return "";
+
+public virtual string getPaymentType()
+{
+        return " ";
     }
 }

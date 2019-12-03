@@ -15,17 +15,18 @@ public string getBillInfo()
     return $"{billDate} {description} {amount}";
 }
 
-public double getBalance()
-{
-return (amount - Payment);
-}
+// public double getBalance()
+// {
+// return (amount - Payment.getBalance);
+// }
 
-public bool addPayment(Payment p)
+public bool addPayment()
 {
-    if(Payment.verify() == true)
-    {
-        addPayment; 
-    }
+    // if(Payment.verify() == true)
+    // {
+    //     addPayment; 
+    // }
+
 
 }
 

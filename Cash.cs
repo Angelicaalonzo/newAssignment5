@@ -3,22 +3,23 @@ class Cash : Payment
 double tenderdCash; // cash provided by customer, e.g. $200
 double change;
 
-public Cash(double amount, string PaymentDate, double tenderdCash) : base (amount, PaymentDate)
+public Cash(double tenderdCash, string paymentDate, double amount) : base (amount, paymentDate)
 {
 this.tenderdCash = tenderdCash; 
-this.change = change; 
+ 
 
 }
 
-public double calcChange()
+// public double calcChange()
+// {
+//    // return (change == tenderdCash - getAmount);
+
+// }
+
+    public override string getPaymentType()
 {
-    return (change = tenderdCash - getAmount);
-
+    return "Credit Card";
 }
-
-    public override string GetPaymentType(){
-        return "Cash";
-        }
 
 
 
